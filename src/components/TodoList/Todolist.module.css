@@ -1,0 +1,19 @@
+.todo_card {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1rem 3rem
+}
+
+.todo_contents {
+  display: flex;
+  justify-content: space-between;
+  gap: 3rem;
+  align-items: center;
+}
+
+.button_box {
+  display: flex;
+  align-items: center;
+  gap: 2rem;
+}
